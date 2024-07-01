@@ -5,25 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johaodev" alt="johaodev" /></a> </p>
 
-- 🔭 I’m currently working on **Red light and speeding speed camera violation management system**
+- 🔭 I’m currently working on **Agreement Management System**
 
-- 🌱 I’m currently learning **React, TypeScript, NestJS, Wordpress, NextJS, Vercel**
+- 🌱 I’m currently learning **Oracle APEX, Oracle Database 19c and 23ai, Oracle Cloud Infraestructure, Oracle Forms**
 
 - 👯 I’m looking to collaborate on **small projects in my free time**
 
-- 🤝 I’m looking for help with **wordpress developer**
-
-- 👨‍💻 All of my projects are available at [https://perlazajohao.vercel.app/portfolio](https://perlazajohao.vercel.app/portfolio)
+- 🤝 I’m looking for help with **Oracle APEX ideas**
 
 - 📝 I regularly write articles on [https://perlazajohao.vercel.app/knowledgebase](https://perlazajohao.vercel.app/knowledgebase)
 
-- 💬 Ask me about **React, NestJS, NextJS**
+- 💬 Ask me about **React, NestJS, NextJS, Oracle APEX, Oracle Database, Oracle Cloud Infraestructure**
 
 - 📫 How to reach me **perlazajohao@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/perlazajohao/](https://www.linkedin.com/in/perlazajohao/)
-
-- ⚡ Fun fact **I think I am a entrepreneur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
